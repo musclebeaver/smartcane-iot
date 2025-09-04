@@ -205,4 +205,14 @@ flowchart TD
 }
 ```
 </details>
+---
+
+## 📂 주요 코드 파일
+
+- [CameraWebServer_mixtest.ino](./src/CameraWebServer_mixtest/CameraWebServer_mixtest.ino)  
+- [app_httpd.cpp](./src/CameraWebServer_mixtest/app_httpd.cpp)  
+- [board_config.h](./src/CameraWebServer_mixtest/board_config.h)
+- [board_config.h](./src/CameraWebServer_mixtest/camera_index.h)
+- [board_config.h](./src/CameraWebServer_mixtest/camera_pins.h)  
+
 
