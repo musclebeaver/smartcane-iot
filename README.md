@@ -110,6 +110,17 @@ flowchart TD
 > - 출발/도착 좌표: `...legs[0].start`, `...legs[-1].end`
 
 ---
+## ⚡ 하드웨어 연결 회로도
+
+### 🎵 오디오 출력 회로 (DFPlayer Mini + 스피커)
+<img src="./images/product1.jpg" alt="DFPlayer Mini 회로도" width="600"/>
+
+---
+
+### 🎮 버튼 + 진동 모터 제어 회로 (Arduino Nano)
+<img src="./images/product2.jpg" alt="Arduino Nano 버튼/모터 회로도" width="600"/>
+
+---
 
 ### 📦 원본 JSON (펼쳐보기)
 <details>
